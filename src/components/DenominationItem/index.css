@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.buttons {
+  border: 1px solid #c4c4c4;
+  color: #d4d2db;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border-radius: 5px;
+  cursor: pointer;
+  outline: none;
+  width:100%;
+  background-color: #382f5a;
+  color: #d4d2db;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-size: 16px;
+  font-weight: 500;
+}
